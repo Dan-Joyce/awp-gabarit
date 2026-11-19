@@ -12,6 +12,10 @@ uv sync
 uv run pytest -q     # 2 passed, 2 skipped : les données se lisent, le reste est à faire
 ```
 
+## Mon rendu
+
+- Exo 3, appli Streamlit en ligne : https://awp-gabarit-hfujy3bahbkfx8mjb7hk62.streamlit.app/ (fichier d'entrée `fil_rouge/app_streamlit.py`, déployée depuis la branche `main`)
+
 ## Jeudi, le fil rouge : mes parties d'échecs
 
 Le jeu de données est celui d'un joueur, exporté de ChessXP et anonymisé : `data/echecs/`.
