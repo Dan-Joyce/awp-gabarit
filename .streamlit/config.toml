@@ -1,5 +1,12 @@
 [browser]
 gatherUsageStats = false
 
+# Thème « échiquier » : vert et crème des cases d'un échiquier classique
 [theme]
+base = "light"
+primaryColor = "#5B7B3A"
+backgroundColor = "#FBFAF4"
+secondaryBackgroundColor = "#EEEED2"
+textColor = "#2B2A27"
 font = "sans serif"
+baseRadius = "medium"
